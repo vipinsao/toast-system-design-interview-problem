@@ -9,7 +9,3 @@ This component was created to demonstrate how toast systems work under the hood,
 - Easy to integrate in any React app
 - Built using `useState`, `useCallback`
 
-### 📦 Use Case
-```jsx
-toast.success("Data saved successfully!");
-toast.error("Failed to save data.");
